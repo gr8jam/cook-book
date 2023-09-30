@@ -42,22 +42,21 @@ def main(
         select_roi: Optional[bool] = Option(False, "--roi"),
         out: Optional[Path] = Option(..., exists=True, dir_okay=True, writable=True),
 ):
-    img_src = cv2.imread(str(file))
+    img = cv2.imread(str(file))
 
-    img_resized = downsize_image(img_src)
+    img = downsize_image(img)
     if select_roi:
-        roi = cv2.selectROI("roi", img_resized, False, False)
+        roi = cv2.selectROI("roi", img, False, False)
         if roi == (0, 0, 0, 0):
             print("no ROI selected, exiting")
             return
         print(f"selected ROI: {roi}")
+        img = img[roi[1]:roi[1] + roi[3], roi[0]:roi[0] + roi[2]]
 
-    img_cut = img_resized[roi[1]:roi[1] + roi[3], roi[0]:roi[0] + roi[2]]
-
-    image = cut_image(img_cut, IMAGE_W, IMAGE_H, "image")
+    image = cut_image(img, IMAGE_W, IMAGE_H, "image")
     cv2.imshow("image", image)
 
-    thumbnail = cut_image(img_cut, THUMBNAIL_W, THUMBNAIL_H, "thumbnail")
+    thumbnail = cut_image(img, THUMBNAIL_W, THUMBNAIL_H, "thumbnail")
     cv2.imshow("thumbnail", thumbnail)
 
     if out:
@@ -105,9 +104,11 @@ def cut_image(src: np.ndarray, w: int, h: int, what: str) -> np.ndarray:
 
     return img_out
 
+
 def save_image(img: np.ndarray, path: Path):
     cv2.imwrite(str(path), img)
     print(f"saved image: {path}")
+
 
 if __name__ == '__main__':
     app()
