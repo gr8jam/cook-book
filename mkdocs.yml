@@ -1,0 +1,11 @@
+site_name: Cook Book
+
+theme:
+    name: "material"
+
+# nav:
+#     - Home: index.md
+#     - Recipes:
+#         - chilly_sin_carne.md
+#         - nasi_goreng/index.md
+
