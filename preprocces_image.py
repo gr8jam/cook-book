@@ -13,8 +13,8 @@ IMAGE_W = 800
 IMAGE_H = 600
 IMAGE_R = IMAGE_W / IMAGE_H
 
-THUMBNAIL_W = 240
-THUMBNAIL_H = 240
+THUMBNAIL_W = 180
+THUMBNAIL_H = 180
 
 
 def downsize_image(src: np.ndarray) -> np.ndarray:

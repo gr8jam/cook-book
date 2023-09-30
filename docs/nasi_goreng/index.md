@@ -2,10 +2,12 @@
 
 ![image](image.jpg)
 
-## Ingredients:
+## Ingredients
+
 - Rice
 - Zucchini
 
-## Instruction:
+## Instruction
+
 - Chop and dice.
 - Cook.
