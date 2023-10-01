@@ -2,10 +2,15 @@ site_name: Cook Book
 
 theme:
     name: "material"
+    features:
+        - search.suggest
+        - search.highlight
+        - navigation.indexes
+    language: en
 
 nav:
-    - Home: index.md
     - Recipes:
+        - index.md
         - apple_cake/index.md
         - nasi_goreng/index.md
         - dal/index.md
