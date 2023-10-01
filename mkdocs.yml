@@ -8,6 +8,10 @@ nav:
     - Recipes:
         - apple_cake/index.md
         - nasi_goreng/index.md
+        - dal/index.md
+        - gnocchi_with_pesto_and_pistachios/index.md
+        - salami_cake/index.md
+        - yogurt_granola_jar/index.md
     - Tags: tags.md
 
 plugins:
