@@ -9,3 +9,4 @@
 [![](recipes/ragu/thumbnail.jpg "Ragù")](recipes/ragu/index.md)
 [![](recipes/carbonara/thumbnail.jpg "Carbonara")](recipes/carbonara/index.md)
 [![](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
+[![](recipes/sushi/thumbnail.jpg "Sushi")](recipes/sushi/index.md)
