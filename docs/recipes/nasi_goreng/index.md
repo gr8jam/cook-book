@@ -1,6 +1,11 @@
-# Nasi Gorneg
+---
+tags: []
+---
 
 ![image](image.jpg)
+
+# Nasi Gorneg
+
 
 ## Ingredients
 
