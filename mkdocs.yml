@@ -2,16 +2,17 @@ site_name: Cook Book
 site_url: https://gr8jam.github.io/cook-book/
 
 theme:
-    name: "material"
-    features:
-        - search.suggest
-        - search.highlight
-        - navigation.indexes
-    language: en
+  name: "material"
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.indexes
+  language: en
 
 nav:
-    - Gallery: index.md
-    - tags.md
+  - Gallery: index.md
+  - tags.md
+  - todo.md
 
 plugins:
   - search
