@@ -10,7 +10,7 @@ tags:
 
 | :material-clock-outline: Prep Time | :material-clock-outline: Cook Time | :fork_and_knife: Servings |
 |------------------------------------|------------------------------------|---------------------------|
-| 30 min                             | 1 h 15 min                         | 1 cake                    |
+| 30 min                             | 1 h 15 min                         | 1 cake (26 cm ∅)          |
 
 ---
 
@@ -42,6 +42,6 @@ tags:
 5. In another container mix sugar, milk, oil, vinegar, yogurt and vanilla flavor.
 6. Pour the wet ingredients into the dry ones and stir them together (don’t overmix).
 7. Add apples chunks and mix. Spoon into the pan and level.
-8. Pour the batter into a round baking tray (diameter 26cm) lined with baking paper.
+8. Pour the batter into a round baking tray lined with baking paper.
 9. Bake the cake for around 1h to 1h15min at 180˚C.
 10. Optionally sprinkle over some brown sugar (but add it about halfway through cooking, otherwise it could burn).
