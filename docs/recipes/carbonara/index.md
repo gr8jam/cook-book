@@ -18,7 +18,7 @@ tags:
 
 - _400g_ smoked tofu / vegan bacon
 - _80g_ chickpea flour
-- _160mL_ water
+- _160ml_ water
 - _80g_ cashews
 - 2 or 3 tbsp nutritional yeast
 - 1 tsp turmeric / saffron

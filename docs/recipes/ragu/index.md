@@ -23,7 +23,7 @@ tags:
 - _200g_ walnuts
 - _240g_ red lentils (or _400g_ of vegan minced meat)
 - _500g_ tomato sauce
-- _500mL_ vegetable broth
+- _500ml_ vegetable broth
 - 4 bay leaves
 - salt and pepper
 
