@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://gr8jam.github.io/cook-book/recipes/pad_thai/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://gr8jam.github.io/cook-book/recipes/ragu/</loc>
          <lastmod>2023-10-08</lastmod>
          <changefreq>daily</changefreq>
@@ -52,11 +57,6 @@
     </url>
     <url>
          <loc>https://gr8jam.github.io/cook-book/recipes/sushi/</loc>
-         <lastmod>2023-10-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gr8jam.github.io/cook-book/recipes/yogurt_granola_jar/</loc>
          <lastmod>2023-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
