@@ -7,6 +7,4 @@
 [![](recipes/yogurt_granola_jar/thumbnail.jpg "Yogurt Granola Jar")](recipes/yogurt_granola_jar/index.md)
 [![](recipes/dal/thumbnail.jpg "Dal")](recipes/dal/index.md)
 [![](recipes/ragu/thumbnail.jpg "Ragù")](recipes/ragu/index.md)
-
-
-
+[![](recipes/carbonara/thumbnail.jpg "Carbonara")](recipes/carbonara/index.md)
