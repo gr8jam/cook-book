@@ -10,3 +10,4 @@
 [![](recipes/carbonara/thumbnail.jpg "Carbonara")](recipes/carbonara/index.md)
 [![](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
 [![](recipes/sushi/thumbnail.jpg "Sushi")](recipes/sushi/index.md)
+[![](recipes/pad_thai/thumbnail.jpg "Pad Thai")](recipes/pad_thai/index.md)
