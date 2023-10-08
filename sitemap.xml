@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://gr8jam.github.io/cook-book/todo/</loc>
+         <lastmod>2023-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://gr8jam.github.io/cook-book/recipes/apple_cake/</loc>
          <lastmod>2023-10-08</lastmod>
          <changefreq>daily</changefreq>
