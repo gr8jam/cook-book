@@ -25,7 +25,7 @@ tags:
 
 ## Instruction
 
-1. Warmup the ragù sauce.
+1. Warmup the [ragù](../ragu/index.md) sauce.
 2. Use vegetable peeler to cut long zucchini slices.
 3. Assemble the lasagna:
     - Spread a layer of ragù sauce on the bottom of the baking dish.
