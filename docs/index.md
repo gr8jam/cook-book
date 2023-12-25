@@ -11,3 +11,5 @@
 [![](recipes/sushi/thumbnail.jpg "Sushi")](recipes/sushi/index.md)
 [![](recipes/pad_thai/thumbnail.jpg "Pad Thai")](recipes/pad_thai/index.md)
 [![](recipes/lasagna/thumbnail.jpg "Lasagna")](recipes/lasagna/index.md)
+[![](recipes/chocolate_mouse/thumbnail.jpg "Chocolate Mouse")](recipes/chocolate_mouse/index.md)
+[![](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
