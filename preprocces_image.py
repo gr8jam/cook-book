@@ -16,7 +16,6 @@ IMAGE_R = IMAGE_W / IMAGE_H
 THUMBNAIL_W = 180
 THUMBNAIL_H = 180
 
-
 def downsize_image(src: np.ndarray) -> np.ndarray:
     """resize image to a manageable size"""
     shape_orig = src.shape

@@ -1,3 +1,8 @@
+## Pre-process images
+
+```bash
+ python -m preprocces_image --help
+```
 ## Local Preview
 
 ```bash

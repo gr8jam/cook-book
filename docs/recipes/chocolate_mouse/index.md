@@ -1,9 +1,10 @@
 ---
 tags:
   - desert
+  - tofu
 ---
 
-# Title
+# Chocolate Mouse
 
 ![image](image.jpg)
 
@@ -33,23 +34,17 @@ tags:
 - Pinch of Sea Salt
 - 4 tbs Cacao Nibs
 
-
-- ½ onion
-
 --- 
 
 ## Instruction
 
-1. For the mousse, add all the ingredients except the melted chocolate to your blender & blend until smooth. Turn the blender onto low speed then slowly trickle in the melted chocolate. 
-
-2. Once smooth & creamy, transfer the mousse to a bowl & place into the fridge for a few minutes to set. 
-
-3. Meanwhile, clean out your blender & add the crumble ingredients & blitz to a crumb. 
-
-4. Serve up the mousse topped with cherry compote or fresh berries of your choice, the chocolate crumble & a sprig of mint. 
+1. For the mousse, add all the ingredients except the melted chocolate to your blender & blend until smooth. Turn the blender onto low speed then slowly trickle in the melted chocolate.
+2. Once smooth & creamy, transfer the mousse to a bowl & place into the fridge for a few minutes to set.
+3. Meanwhile, clean out your blender & add the crumble ingredients & blitz to a crumb.
+4. Serve up the mousse topped with cherry compote or fresh berries of your choice, the chocolate crumble & a sprig of mint.
 
 ---
 
 ## Inspiration
 
-- [Gaz Okley (avantgarde)](https://www.gazoakleychef.com/recipes/mint-chocolate-mousse/)
+- [Gaz Okley (Avant Garde)](https://www.gazoakleychef.com/recipes/mint-chocolate-mousse/)

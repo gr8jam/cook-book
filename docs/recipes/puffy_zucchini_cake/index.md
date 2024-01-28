@@ -6,7 +6,6 @@ tags:
 
 # Puffy Zucchini Cake
 
-TODO: add picture  
 ![image](image.jpg)
 
 | :material-clock-outline: Prep Time | :material-clock-outline: Cook Time | :fork_and_knife: Servings |
@@ -20,7 +19,7 @@ TODO: add picture
 - 2 zucchinis
 - 1 tsp garlic powder
 - salt and pepper
-- _100g_ vegan Philadelphia
+- _145g_ vegan Philadelphia
 - 1 tbsp pesto
 - 2 circular puff pastry sheets (32 cm ∅)
 

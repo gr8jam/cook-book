@@ -10,7 +10,8 @@ theme:
   language: en
 
 nav:
-  - Gallery: index.md
+  # - Recipes: recipes
+  - Gallery: gallery.md
   - tags.md
   - todo.md
 
