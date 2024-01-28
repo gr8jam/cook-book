@@ -99,7 +99,7 @@ def cut_image(src: np.ndarray, w: int, h: int, what: str) -> np.ndarray:
     cv2.imshow(f"selection of {what}", img_selection)
 
     img_cut = src[roi[1]:roi[1] + roi[3], roi[0]:roi[0] + roi[2]]
-    img_out = cv2.resize(img_cut, (dst_w, dst_h))
+    img_out = cv2.resize(img_cut, (dst_w, dst_h), interpolation=cv2.INTER_AREA)
 
     return img_out
 

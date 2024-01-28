@@ -14,3 +14,4 @@
 [![](recipes/chocolate_mouse/thumbnail.jpg "Chocolate Mouse")](recipes/chocolate_mouse/index.md)
 [![](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
 [![](recipes/sundried_tomato_and_brocolli_penne_pasta/thumbnail.jpg "Sundried Tomato and Brocolli Pasta")](recipes/sundried_tomato_and_brocolli_penne_pasta/index.md)
+[![](recipes/kebab/thumbnail.jpg "Kebab")](recipes/kebab/index.md)
