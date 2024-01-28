@@ -1,6 +1,5 @@
 # TODO
 
-* [x] Vegan Lasagna
 * [x] Dal
 * [x] Homemade Kebab
 * [ ] Chili sin Carne

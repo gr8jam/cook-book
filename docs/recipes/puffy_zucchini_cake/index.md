@@ -41,4 +41,4 @@ tags:
 
 ## Inspiration
 
-1. TODO: add a link to receipt for the Christmas tree.
+1. [Cucina Botanica (Instagram)](https://www.instagram.com/reel/C0om_nFozKT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)

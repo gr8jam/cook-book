@@ -11,7 +11,7 @@ theme:
 
 nav:
   # - Recipes: recipes
-  - Gallery: gallery.md
+  - Gallery: index.md
   - tags.md
   - todo.md
 
