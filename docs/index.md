@@ -15,3 +15,4 @@
 [![](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
 [![](recipes/sundried_tomato_and_brocolli_penne_pasta/thumbnail.jpg "Sundried Tomato and Brocolli Pasta")](recipes/sundried_tomato_and_brocolli_penne_pasta/index.md)
 [![](recipes/kebab/thumbnail.jpg "Kebab")](recipes/kebab/index.md)
+[![](recipes/chickpea_gnocchi/thumbnail.jpg "Chickpea Gnocchi")](recipes/chickpea_gnocchi/index.md)
