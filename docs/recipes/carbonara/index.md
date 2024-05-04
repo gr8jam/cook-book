@@ -22,7 +22,7 @@ tags:
 - _80g_ cashews
 - 2 or 3 tbsp nutritional yeast
 - 1 tsp turmeric / saffron
-- 1 tsp Kala Namak salt
+- 3 tsp Kala Namak salt
 - pepper
 
 --- 
