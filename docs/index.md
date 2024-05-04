@@ -1,5 +1,6 @@
 # Gallery
 
+## Mains
 [![](recipes/nasi_goreng/thumbnail.jpg "Nasi Goreng")](recipes/nasi_goreng/index.md)
 [![](recipes/apple_cake/thumbnail.jpg "Apple Cake")](recipes/apple_cake/index.md)
 [![](recipes/ragu/thumbnail.jpg "Ragù")](recipes/ragu/index.md)
@@ -12,6 +13,8 @@
 [![](recipes/sundried_tomato_and_brocolli_penne_pasta/thumbnail.jpg "Sundried Tomato and Brocolli Pasta")](recipes/sundried_tomato_and_brocolli_penne_pasta/index.md)
 [![](recipes/chickpea_gnocchi/thumbnail.jpg "Chickpea Gnocchi")](recipes/chickpea_gnocchi/index.md)
 [![](recipes/kebab/thumbnail.jpg "Kebab")](recipes/kebab/index.md)
+
+## Cakes
 [![](recipes/orange_cake/thumbnail.jpg "Orange Cake")](recipes/orange_cake/index.md)
 [![](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
 [![](recipes/chocolate_mouse/thumbnail.jpg "Chocolate Mouse")](recipes/chocolate_mouse/index.md)
