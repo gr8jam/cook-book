@@ -13,6 +13,8 @@
 [![](recipes/sundried_tomato_and_brocolli_penne_pasta/thumbnail.jpg "Sundried Tomato and Brocolli Pasta")](recipes/sundried_tomato_and_brocolli_penne_pasta/index.md)
 [![](recipes/chickpea_gnocchi/thumbnail.jpg "Chickpea Gnocchi")](recipes/chickpea_gnocchi/index.md)
 [![](recipes/kebab/thumbnail.jpg "Kebab")](recipes/kebab/index.md)
+[![](recipes/pancakes/thumbnail.jpg "Pancakes")](recipes/pancakes/index.md)
+
 
 ## Cakes
 [![](recipes/orange_cake/thumbnail.jpg "Orange Cake")](recipes/orange_cake/index.md)
