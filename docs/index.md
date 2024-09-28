@@ -33,3 +33,4 @@
 
 [![](recipes/pancakes/thumbnail.jpg "Pancakes")](recipes/pancakes/index.md)
 [![](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
+[![](recipes/chocolate_zucchini_bread/thumbnail.jpg "Chocolate Zucchini Bread")](recipes/chocolate_zucchini_bread/index.md)

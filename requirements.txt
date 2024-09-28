@@ -1,5 +1,0 @@
-mkdocs
-mkdocs-material
-opencv-python
-typer[all]
-numpy
