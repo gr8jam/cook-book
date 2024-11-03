@@ -12,8 +12,6 @@
 * [ ] Stuffed Eggplant
 
 ---
-   
+
 * [ ] Banana Bread
 * [ ] Zucchini Bread
-
-

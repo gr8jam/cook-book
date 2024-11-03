@@ -11,19 +11,19 @@ tags:
 |------------------------------------|------------------------------------|---------------------------|
 | 10 min                             | 10 min                             | 2 stacks                  |
 
---- 
+---
 
 ## Ingredients
 
 - _200g_ flour
 - 2 tbsp sugar
-- 2 tsp baking powder 
+- 2 tsp baking powder
 - 1 pinch of salt
 - 1 drop of vanilla extract (optional)
 - 1 mashed banana
 - _320ml_ plant-based milk (_400ml_ for crêpes)
 
---- 
+---
 
 ## Instruction
 

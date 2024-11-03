@@ -34,7 +34,7 @@ tags:
 - 1 tsp sweetener of choice (maple or agave syrup)
 - 1 tsp garlic powder
 
---- 
+---
 
 ## Instruction
 

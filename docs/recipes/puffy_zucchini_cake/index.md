@@ -12,7 +12,7 @@ tags:
 |------------------------------------|------------------------------------|---------------------------|
 | 30 min                             | 20 min                             | 1 cake (32 cm ∅)          |
 
---- 
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ tags:
 - 1 tbsp pesto
 - 2 circular puff pastry sheets (32 cm ∅)
 
---- 
+---
 
 ## Instruction
 

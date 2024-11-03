@@ -13,7 +13,7 @@ tags:
 |-------------------------------|---------------------------|
 | 60 min                        | 4 portions                |
 
---- 
+---
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ tags:
 - _1 cup_ of vegetable broth
 - _500g_ of tomato sauce
 
---- 
+---
 
 ## Instruction
 

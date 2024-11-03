@@ -11,7 +11,7 @@ tags:
 |-------------------------------|---------------------------|
 | 30 min                        | 2 portions                |
 
---- 
+---
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ tags:
 - salt and pepper
 - _250g_ pasta
 
---- 
+---
 
 ## Instruction
 

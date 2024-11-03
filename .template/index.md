@@ -11,7 +11,7 @@ tags:
 |-------------------------------|---------------------------|
 | 30 min                        | 4 portions                |
 
---- 
+---
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ tags:
 - _80g_ chickpea flour
 - ½ onion
 
---- 
+---
 
 ## Instruction
 

@@ -13,7 +13,7 @@ tags:
 |-------------------------------|---------------------------|
 | 40 min                        | 4 portions                |
 
---- 
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ tags:
 - 1 tbsp garam masala
 - 1 tbsp curry
 
---- 
+---
 
 ## Instruction
 

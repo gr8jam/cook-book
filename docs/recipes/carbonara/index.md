@@ -12,7 +12,7 @@ tags:
 |-------------------------------|---------------------------|
 | 30 min                        | 4 portions                |
 
---- 
+---
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ tags:
 - 3 tsp Kala Namak salt
 - pepper
 
---- 
+---
 
 ## Instruction
 

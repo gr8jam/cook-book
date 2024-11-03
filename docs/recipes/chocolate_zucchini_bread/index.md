@@ -51,4 +51,3 @@ tags:
 
 ## Inspiration
 - [Bianca Zapata - Chocolate Zucchini Bread](https://biancazapatka.com/en/chocolate-zucchini-bread/#recipe)
-

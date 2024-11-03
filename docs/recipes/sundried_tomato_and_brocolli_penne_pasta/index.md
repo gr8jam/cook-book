@@ -13,7 +13,7 @@ tags:
 |-------------------------------|---------------------------|
 | 30 min                        | 2 portions                |
 
---- 
+---
 
 ## Ingredients
 
@@ -39,15 +39,15 @@ tags:
 - 1 tsp oregano
 - Pinch of Salt
 
---- 
+---
 
 ## Instruction
 
 1. Add all the sauce ingredients to a blender and blend until smooth. Add a splash of water if necessary to help it blend. Set aside.
-2. Take a large sauce pan. Add the olive oil, almonds and broccoli. Cook for 2-3 minutes until the almonds are golden brown. 
+2. Take a large sauce pan. Add the olive oil, almonds and broccoli. Cook for 2-3 minutes until the almonds are golden brown.
 3. Add a splash of water and cover the pan. This will help steam the broccoli.
 4. Add the sauce to the pan and stir to combine.
-5. Add the pasta to a large pan of boiling water and cook according to the packet instructions. 
+5. Add the pasta to a large pan of boiling water and cook according to the packet instructions.
 6. Drain the pasta and add it to the pan with the sauce. Stir to combine.
 7. On a separate pan, add the Pangrattato ingredients. Cook for 2-3 minutes until the breadcrumbs are golden brown. Be careful not to burn them.
 8. Serve the pasta with the Pangrattato and fresh basil.

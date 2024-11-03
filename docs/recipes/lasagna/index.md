@@ -12,7 +12,7 @@ tags:
 |------------------------------------|------------------------------------|---------------------------|
 | 15 min                             | 30 min                             | 4 servings                |
 
---- 
+---
 
 ## Ingredients
 - Big pot of [ragù](../ragu/index.md) sauce
@@ -21,7 +21,7 @@ tags:
 - Parmesan cheese (optional)
 - Bread crumbs
 
---- 
+---
 
 ## Instruction
 

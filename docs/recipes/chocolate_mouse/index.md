@@ -12,7 +12,7 @@ tags:
 |-------------------------------|---------------------------|
 | 30 min                        | 4 portions                |
 
---- 
+---
 
 ## Ingredients
 
@@ -34,7 +34,7 @@ tags:
 - Pinch of Sea Salt
 - 4 tbs Cacao Nibs
 
---- 
+---
 
 ## Instruction
 
