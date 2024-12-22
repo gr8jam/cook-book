@@ -20,7 +20,8 @@
 [![](recipes/pad_thai/thumbnail.jpg "Pad Thai")](recipes/pad_thai/index.md)
 [![](recipes/kebab/thumbnail.jpg "Kebab")](recipes/kebab/index.md)
 [![](recipes/chili_sin_carne/thumbnail.jpg "Chili sin Carne")](recipes/chili_sin_carne/index.md)
-
+[![](recipes/wellington/thumbnail.jpg "Wellington")](recipes/wellington/index.md)
+[![](recipes/seitan_roast/thumbnail.jpg "Seitan Roast")](recipes/seitan_roast/index.md)
 
 ## Cakes
 
