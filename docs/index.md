@@ -8,7 +8,9 @@
 [![](recipes/chickpea_gnocchi/thumbnail.jpg "Chickpea Gnocchi")](recipes/chickpea_gnocchi/index.md)
 [![](recipes/carbonara/thumbnail.jpg "Carbonara")](recipes/carbonara/index.md)
 [![](recipes/sundried_tomato_and_brocolli_penne_pasta/thumbnail.jpg "Sundried Tomato and Brocolli Pasta")](recipes/sundried_tomato_and_brocolli_penne_pasta/index.md)
-
+[![](recipes/mushroom_pasta/thumbnail.jpg "Mushroom Pasta")](recipes/mushroom_pasta/index.md)
+[![](recipes/pasta_with_beans_cherry_tomatoes/thumbnail.jpg "Pasta with White Beans and Cherry Tomatoes")](recipes/pasta_with_beans_cherry_tomatoes/index.md)
+[![](recipes/pasta_dry_tomatoes_orange/thumbnail.jpg "Pasta with Dry Tomatoes Sauce")](recipes/pasta_dry_tomatoes_orange/index.md)
 
 ## Mains
 

@@ -33,7 +33,7 @@ tags:
 2. Cut the tofu in small cubes and brown it in a pan with a little bit of oil. Set aside.
 3. Prepare a batter of water and chickpea flour and then scramble it in a frying pan over medium heat, stirring with a spoon until it has thickened.
 4. Move this mixture into a blender and add cashews, nutritional yeast, turmeric, Kala Namak salt, pepper and a bit of warm water. Blend until smooth.
-5. Once the pasta is cooked, add the sauce and the tofu cubes and mix well. Serve with a sprinkle of nutritional yeast / grated vegan cheese and pepper.
+5. Once the pasta is cooked, add the sauce and the tofu cubes and mix well. Serve with a sprinkle of grated vegan cheese and pepper.
 
 ---
 

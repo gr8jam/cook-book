@@ -62,4 +62,4 @@ tags:
 
 ## Inspiration
 
-- [Instagram](https://www.instagram.com/reel/CY9s1vBoCJ5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[Instagram](https://www.instagram.com/reel/CY9s1vBoCJ5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
