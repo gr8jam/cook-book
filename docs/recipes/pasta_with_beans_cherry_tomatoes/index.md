@@ -10,7 +10,7 @@ tags:
 
 | :material-clock-outline: Time | :fork_and_knife: Servings |
 |-------------------------------|---------------------------|
-| 30 min                        | 2 portions                |
+| 15 min                        | 2 portions                |
 
 ---
 

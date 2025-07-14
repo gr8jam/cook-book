@@ -1,17 +1,16 @@
 # TODO
 
-* [ ] Vegan Roasted Red Pepper Sauce
 * [ ] Smoky Lentils Sauce
 * [ ] Mushroom Soup
-* [ ] Vegan Goulash
 * [ ] Pasta with Tuna Sauce
-* [ ] Homemade Burgers
-* [ ] Sweat potato
+* [ ] Sweet potatoes
 * [ ] Vegetable Quinoa
 * [ ] Kale-Pomegranate-Quinoa Salad
-* [ ] Stuffed Eggplant
+* [ ] Pesto alla Trapanese
+* [ ] Lentils Stew
 
 ---
 
 * [ ] Banana Bread
-* [ ] Zucchini Bread
+* [ ] Tiramisu
+* [ ] Carrot cake with cheese cream topping
