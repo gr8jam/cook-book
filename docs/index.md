@@ -12,6 +12,7 @@
 [![](recipes/pasta_with_beans_cherry_tomatoes/thumbnail.jpg "Pasta with White Beans and Cherry Tomatoes")](recipes/pasta_with_beans_cherry_tomatoes/index.md)
 [![](recipes/pasta_with_dry_tomatoes_sauce/thumbnail.jpg "Pasta with Dry Tomatoes Sauce")](recipes/pasta_with_dry_tomatoes_sauce/index.md)
 [![](recipes/roasted_red_pepper_sauce/thumbnail.jpg "Roasted Red Pepper Sauce")](recipes/roasted_red_pepper_sauce/index.md)
+[![](recipes/smoky_lentils_sauce/thumbnail.jpg "Smoky Lentils Sauce")](recipes/smoky_lentils_sauce/index.md)
 
 
 ## Mains
