@@ -12,5 +12,4 @@
 
 * [ ] Banana Bread
 * [ ] Pumpkin Marmor Cake
-* [ ] Tiramisu
 * [ ] Carrot cake with cheese cream topping
