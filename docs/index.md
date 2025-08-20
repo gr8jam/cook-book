@@ -32,7 +32,7 @@
 
 [![](recipes/orange_cake/thumbnail.jpg "Orange Cake")](recipes/orange_cake/index.md)
 [![](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
-[![](recipes/chocolate_mouse/thumbnail.jpg "Chocolate Mouse")](recipes/chocolate_mouse/index.md)
+[![](recipes/chocolate_mousse/thumbnail.jpg "Chocolate Mouse")](recipes/chocolate_mousse/index.md)
 [![](recipes/apple_cake/thumbnail.jpg "Apple Cake")](recipes/apple_cake/index.md)
 
 ## Other

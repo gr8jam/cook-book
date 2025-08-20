@@ -1,6 +1,6 @@
 ---
 tags:
-  - desert
+  - dessert
 ---
 
 # Sacher Torte
