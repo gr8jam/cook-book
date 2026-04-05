@@ -49,3 +49,4 @@
 
 [![](recipes/protein_bars/thumbnail.jpg "Protein Bars")](recipes/protein_bars/index.md)
 [![](recipes/hummus/thumbnail.jpg "Hummus")](recipes/hummus/index.md)
+[![](recipes/tortilla/thumbnail.jpg "Tortilla")](recipes/tortilla/index.md)
