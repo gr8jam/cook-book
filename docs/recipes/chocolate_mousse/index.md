@@ -1,7 +1,6 @@
 ---
 tags:
   - dessert
-  - tofu
 ---
 
 # Chocolate Mouse

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Christmas
+  - christmas
 ---
 
 # Seitan Roast

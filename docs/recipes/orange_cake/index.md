@@ -1,6 +1,7 @@
 ---
 tags:
   - dessert
+  - cake
 ---
 
 # Orange Cake

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Christmas
+  - christmas
 ---
 
 > TODO: Add more accurate "servings" information.

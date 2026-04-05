@@ -1,8 +1,6 @@
 ---
 tags:
   - asian
-  - peanuts
-  - tofu
 ---
 
 # Pad Thai

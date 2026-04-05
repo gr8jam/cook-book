@@ -1,8 +1,6 @@
 ---
 tags:
   - pasta
-  - italian
-  - brocolli
 ---
 
 # Sundried Tomato and Brocolli Pasta

@@ -1,8 +1,8 @@
 ---
 tags:
   - asian
-  - rice
-  - tuna
+
+
 ---
 
 # Sushi

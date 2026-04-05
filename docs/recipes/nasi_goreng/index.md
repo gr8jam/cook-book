@@ -1,7 +1,7 @@
 ---
 tags:
   - asian
-  - rice
+
 ---
 
 # Nasi Goreng

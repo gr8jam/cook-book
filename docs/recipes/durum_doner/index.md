@@ -1,9 +1,10 @@
 ---
 tags:
-  - tofu
+  - turkish
+
 ---
 
-# Kebab
+# Dürüm Döner
 
 ![image](image.jpg)
 

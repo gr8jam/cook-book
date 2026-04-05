@@ -1,8 +1,6 @@
 ---
 tags:
   - indian
-  - rice
-  - lentils
 ---
 
 # Red Lentil Dal

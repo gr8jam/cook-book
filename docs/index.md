@@ -1,5 +1,15 @@
 # Gallery
 
+## Breakfast
+
+[![](recipes/overnight_oats/thumbnail.jpg "Overnight Oats")](recipes/overnight_oats/index.md)
+[![](recipes/pancakes/thumbnail.jpg "Pancakes")](recipes/pancakes/index.md)
+[![](recipes/orange_cake/thumbnail.jpg "Orange Cake")](recipes/orange_cake/index.md)
+[![](recipes/apple_cake/thumbnail.jpg "Apple Cake")](recipes/apple_cake/index.md)
+
+## Starters
+
+[![](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
 
 ## Pasta
 
@@ -23,21 +33,19 @@
 [![](recipes/sushi/thumbnail.jpg "Sushi")](recipes/sushi/index.md)
 [![](recipes/lasagna/thumbnail.jpg "Lasagna")](recipes/lasagna/index.md)
 [![](recipes/pad_thai/thumbnail.jpg "Pad Thai")](recipes/pad_thai/index.md)
-[![](recipes/kebab/thumbnail.jpg "Kebab")](recipes/kebab/index.md)
+[![](recipes/durum_doner/thumbnail.jpg "Dürüm Döner")](recipes/durum_doner/index.md)
 [![](recipes/chili_sin_carne/thumbnail.jpg "Chili sin Carne")](recipes/chili_sin_carne/index.md)
 [![](recipes/wellington/thumbnail.jpg "Wellington")](recipes/wellington/index.md)
 [![](recipes/seitan_roast/thumbnail.jpg "Seitan Roast")](recipes/seitan_roast/index.md)
 
-## Cakes
+## Dessert
 
-[![](recipes/orange_cake/thumbnail.jpg "Orange Cake")](recipes/orange_cake/index.md)
 [![](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
 [![](recipes/chocolate_mousse/thumbnail.jpg "Chocolate Mouse")](recipes/chocolate_mousse/index.md)
-[![](recipes/apple_cake/thumbnail.jpg "Apple Cake")](recipes/apple_cake/index.md)
-
-## Other
-
-[![](recipes/pancakes/thumbnail.jpg "Pancakes")](recipes/pancakes/index.md)
-[![](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
 [![](recipes/chocolate_zucchini_bread/thumbnail.jpg "Chocolate Zucchini Bread")](recipes/chocolate_zucchini_bread/index.md)
 [![](recipes/tiramisu/thumbnail.jpg "Tiramisu")](recipes/tiramisu/index.md)
+
+## Snacks
+
+[![](recipes/protein_bars/thumbnail.jpg "Protein Bars")](recipes/protein_bars/index.md)
+[![](recipes/hummus/thumbnail.jpg "Hummus")](recipes/hummus/index.md)
