@@ -1,6 +1,8 @@
 ---
 tags:
   - persian
+  - starter
+  - snack
 ---
 
 # Hummus
