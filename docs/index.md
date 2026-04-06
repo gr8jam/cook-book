@@ -1,15 +1,16 @@
 # Gallery
 
-## Breakfast
+## Sweets
 
 [![Overnight Oats](recipes/overnight_oats/thumbnail.jpg "Overnight Oats")](recipes/overnight_oats/index.md)
 [![Pancakes](recipes/pancakes/thumbnail.jpg "Pancakes")](recipes/pancakes/index.md)
 [![Orange Cake](recipes/orange_cake/thumbnail.jpg "Orange Cake")](recipes/orange_cake/index.md)
 [![Apple Cake](recipes/apple_cake/thumbnail.jpg "Apple Cake")](recipes/apple_cake/index.md)
-
-## Starters
-
-[![Puffy Zucchini Cake](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
+[![Sacher Torte](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
+[![Chocolate Mousse](recipes/chocolate_mousse/thumbnail.jpg "Chocolate Mousse")](recipes/chocolate_mousse/index.md)
+[![Chocolate Zucchini Bread](recipes/chocolate_zucchini_bread/thumbnail.jpg "Chocolate Zucchini Bread")](recipes/chocolate_zucchini_bread/index.md)
+[![Tiramisu](recipes/tiramisu/thumbnail.jpg "Tiramisu")](recipes/tiramisu/index.md)
+[![Protein Bars](recipes/protein_bars/thumbnail.jpg "Protein Bars")](recipes/protein_bars/index.md)
 
 ## Pasta
 
@@ -24,7 +25,6 @@
 [![Roasted Red Pepper Sauce](recipes/roasted_red_pepper_sauce/thumbnail.jpg "Roasted Red Pepper Sauce")](recipes/roasted_red_pepper_sauce/index.md)
 [![Smoky Lentils Sauce](recipes/smoky_lentils_sauce/thumbnail.jpg "Smoky Lentils Sauce")](recipes/smoky_lentils_sauce/index.md)
 
-
 ## Mains
 
 [![Nasi Goreng](recipes/nasi_goreng/thumbnail.jpg "Nasi Goreng")](recipes/nasi_goreng/index.md)
@@ -38,16 +38,10 @@
 [![Wellington](recipes/wellington/thumbnail.jpg "Wellington")](recipes/wellington/index.md)
 [![Seitan Roast](recipes/seitan_roast/thumbnail.jpg "Seitan Roast")](recipes/seitan_roast/index.md)
 
-## Dessert
 
-[![Sacher Torte](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
-[![Chocolate Mousse](recipes/chocolate_mousse/thumbnail.jpg "Chocolate Mousse")](recipes/chocolate_mousse/index.md)
-[![Chocolate Zucchini Bread](recipes/chocolate_zucchini_bread/thumbnail.jpg "Chocolate Zucchini Bread")](recipes/chocolate_zucchini_bread/index.md)
-[![Tiramisu](recipes/tiramisu/thumbnail.jpg "Tiramisu")](recipes/tiramisu/index.md)
+## Other
 
-## Snacks
-
-[![Protein Bars](recipes/protein_bars/thumbnail.jpg "Protein Bars")](recipes/protein_bars/index.md)
+[![Puffy Zucchini Cake](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
 [![Hummus](recipes/hummus/thumbnail.jpg "Hummus")](recipes/hummus/index.md)
 [![Tortilla](recipes/tortilla/thumbnail.jpg "Tortilla")](recipes/tortilla/index.md)
 [![No-Knead Seed Bread](recipes/doctors_daily_bread/thumbnail.jpg "No-Knead Seed Bread")](recipes/doctors_daily_bread/index.md)
