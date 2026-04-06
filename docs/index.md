@@ -38,10 +38,9 @@
 [![Wellington](recipes/wellington/thumbnail.jpg "Wellington")](recipes/wellington/index.md)
 [![Seitan Roast](recipes/seitan_roast/thumbnail.jpg "Seitan Roast")](recipes/seitan_roast/index.md)
 
-
 ## Other
 
 [![Puffy Zucchini Cake](recipes/puffy_zucchini_cake/thumbnail.jpg "Puffy Zucchini Cake")](recipes/puffy_zucchini_cake/index.md)
 [![Hummus](recipes/hummus/thumbnail.jpg "Hummus")](recipes/hummus/index.md)
 [![Tortilla](recipes/tortilla/thumbnail.jpg "Tortilla")](recipes/tortilla/index.md)
-[![No-Knead Seed Bread](recipes/doctors_daily_bread/thumbnail.jpg "No-Knead Seed Bread")](recipes/doctors_daily_bread/index.md)
+[![No-Knead Seed Bread](recipes/no_knead_seed_bread/thumbnail.jpg "No-Knead Seed Bread")](recipes/no_knead_seed_bread/index.md)
