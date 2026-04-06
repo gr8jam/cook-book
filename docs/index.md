@@ -24,6 +24,7 @@
 [![Pasta with Dry Tomatoes Sauce](recipes/pasta_with_dry_tomatoes_sauce/thumbnail.jpg "Pasta with Dry Tomatoes Sauce")](recipes/pasta_with_dry_tomatoes_sauce/index.md)
 [![Roasted Red Pepper Sauce](recipes/roasted_red_pepper_sauce/thumbnail.jpg "Roasted Red Pepper Sauce")](recipes/roasted_red_pepper_sauce/index.md)
 [![Smoky Lentils Sauce](recipes/smoky_lentils_sauce/thumbnail.jpg "Smoky Lentils Sauce")](recipes/smoky_lentils_sauce/index.md)
+[![Basil Pesto](recipes/basil_pesto/thumbnail.jpg "Basil Pesto")](recipes/basil_pesto/index.md)
 
 ## Mains
 
