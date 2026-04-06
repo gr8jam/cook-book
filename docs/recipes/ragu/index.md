@@ -15,7 +15,7 @@ tags:
 ## Ingredients
 
 - 2 onions
-- 4 garlic gloves
+- 4 garlic cloves
 - _400g_ mushrooms
 - 3 carrots
 - 3 celery sticks

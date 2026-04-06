@@ -1,9 +1,10 @@
 ---
 tags:
+  - italian
   - pasta
 ---
 
-# Sundried Tomato and Brocolli Pasta
+# Sundried Tomato and Broccoli Pasta
 
 ![image](image.jpg)
 

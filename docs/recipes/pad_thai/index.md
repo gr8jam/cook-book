@@ -11,6 +11,8 @@ tags:
 |-------------------------------|---------------------------|
 | 45 min                        | 4 portions                |
 
+---
+
 ## Ingredients
 
 - 1 Block of Smoked Tofu
@@ -40,7 +42,7 @@ tags:
 2. Chop the vegetables and stir-fry them in a pan with a little bit of oil. Set aside.
 3. Cook the noodles according to the instructions on the package.
 4. Mix all the ingredients for the sauce in a bowl.
-5. Drain the noodles and add put them in a large pan.
+5. Drain the noodles and add them in a large pan.
 6. Pour the sauce into the noodles and mix well.
 7. Add the vegetables and tofu and mix again.
 8. Serve with peanuts.

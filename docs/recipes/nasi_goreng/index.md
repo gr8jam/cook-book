@@ -31,7 +31,7 @@ tags:
 - 1 tsp lemon grass
 - 1 tsp garlic powder
 - 5 tbsp soy sauce
-- 1 tsp siracha
+- 1 tsp sriracha
 - 2 tbsp sweetener of choice (maple or agave syrup)
 
 ---
@@ -42,7 +42,7 @@ tags:
 - Fry the vegan chicken in a pan with a little bit of oil. Set aside.
 - Fry the vegetables in a pan with a little bit of oil. Set aside.
 - Mix all the ingredients for the sauce in a bowl.
-- Drain the rice and add put it in a large pan.
+- Drain the rice and add it in a large pan.
 - Pour the sauce into the rice and mix well.
 - Add the vegetables and vegan chicken and mix again.
 - Serve with cashews.

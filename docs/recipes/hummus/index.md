@@ -23,7 +23,7 @@ tags:
 - 1 garlic clove
 - _100g_ tahini
 - 1 tsp cumin
-- 1 tsp slat
+- 1 tsp salt
 
 ---
 
@@ -31,7 +31,7 @@ tags:
 
 1. Pour the canned chickpeas, including their liquid and baking soda, into a pot and simmer over medium heat for about 20 minutes.
 2. If the water level drops too low, add more. The chickpeas should be soft and easily fall apart when tender. Be sure to reserve the cooking liquid.
-3. Squeeze the juice from the lemon juice.
+3. Squeeze the juice from the lemon.
 4. Peel and chop the garlic. Leave it rest in the lemon juice for 10 mins.
 5. After 10 minutes add tahini, cumin, and salt and blend the mixture well for about a minute.
 6. Once the chickpeas are cooked, drain them and clean them well under cold water to remove all the pieces of skin.

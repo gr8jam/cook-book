@@ -35,7 +35,7 @@ tags:
 3. Add salt and pepper and cook for a few minutes until the mushrooms are tender and their water has evaporated.
 4. Add part of the cooked mushrooms to a blender, along with the soaked dried mushrooms and a bit of their soaking water. Add nutritional yeast and blend until you achieve a creamy consistency.
 5. Combine the blended mixture with the remaining mushrooms in the pan and adjust seasoning if necessary.
-6. Finely add the cooked pasta, mix well and decorate with a sprinkle of parsley.
+6. Finally, add the cooked pasta, mix well and decorate with a sprinkle of parsley.
 
 ---
 

@@ -17,7 +17,7 @@
 [![](recipes/pasta_e_fagioli/thumbnail.jpg "Pasta e Fagioli")](recipes/pasta_e_fagioli/index.md)
 [![](recipes/chickpea_gnocchi/thumbnail.jpg "Chickpea Gnocchi")](recipes/chickpea_gnocchi/index.md)
 [![](recipes/carbonara/thumbnail.jpg "Carbonara")](recipes/carbonara/index.md)
-[![](recipes/sundried_tomato_and_brocolli_penne_pasta/thumbnail.jpg "Sundried Tomato and Brocolli Pasta")](recipes/sundried_tomato_and_brocolli_penne_pasta/index.md)
+[![](recipes/sundried_tomato_and_brocolli_penne_pasta/thumbnail.jpg "Sundried Tomato and Broccoli Pasta")](recipes/sundried_tomato_and_brocolli_penne_pasta/index.md)
 [![](recipes/mushroom_pasta/thumbnail.jpg "Mushroom Pasta")](recipes/mushroom_pasta/index.md)
 [![](recipes/pasta_with_beans_cherry_tomatoes/thumbnail.jpg "Pasta with White Beans and Cherry Tomatoes")](recipes/pasta_with_beans_cherry_tomatoes/index.md)
 [![](recipes/pasta_with_dry_tomatoes_sauce/thumbnail.jpg "Pasta with Dry Tomatoes Sauce")](recipes/pasta_with_dry_tomatoes_sauce/index.md)
@@ -41,7 +41,7 @@
 ## Dessert
 
 [![](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
-[![](recipes/chocolate_mousse/thumbnail.jpg "Chocolate Mouse")](recipes/chocolate_mousse/index.md)
+[![](recipes/chocolate_mousse/thumbnail.jpg "Chocolate Mousse")](recipes/chocolate_mousse/index.md)
 [![](recipes/chocolate_zucchini_bread/thumbnail.jpg "Chocolate Zucchini Bread")](recipes/chocolate_zucchini_bread/index.md)
 [![](recipes/tiramisu/thumbnail.jpg "Tiramisu")](recipes/tiramisu/index.md)
 

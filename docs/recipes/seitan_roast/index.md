@@ -32,7 +32,7 @@ tags:
 2. Heat a pan with a little oil and fry the seitan on all sides for a short time.
 3. Remove the seitan from the pan and fry the vegetables in the same pan.
 4. Sauté the vegetables for a few minutes, then add the wine and let it evaporate.
-5. Add the broth (which should cover the vegetables) and the herbs, and let it stimer for 30 minutes.
+5. Add the broth (which should cover the vegetables) and the herbs, and let it simmer for 30 minutes.
 6. Add seitan and potatoes and let it cook for another 30 minutes.
 
 ---

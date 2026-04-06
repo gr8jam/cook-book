@@ -1,6 +1,7 @@
 ---
 tags:
   - italian
+  - pasta
 ---
 
 # Chickpea Gnocchi
@@ -17,13 +18,13 @@ tags:
 
 - _480g_ chickpeas
 - _4 tbsp_ olive oil
-- salt and peper
+- salt and pepper
 - _100g_ flour
 ---
 
 ## Instruction
 
-1. Put chickpeas, olive oil, salt and peper to food processor and blend until smooth.
+1. Put chickpeas, olive oil, salt and pepper to food processor and blend until smooth.
 2. Transfer the mixture to a bowl, and slowly add flour while kneading the dough.
 3. Stop kneading when the dough is no longer sticky.
 4. Divide the dough into 4 parts and roll each part into a long sausage.

@@ -19,7 +19,7 @@ tags:
 
 - _300g_ flour
 - _70g_ almond flour
-- 1 baking powder
+- 1 packet baking powder
 - ½ tsp salt
 - zest of 2 oranges
 - _150g_ cane sugar

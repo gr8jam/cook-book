@@ -23,7 +23,7 @@ tags:
 - _50g_ peanut butter
 
 ### Tiramisu version
-- 1 cup of expresso coffee
+- 1 cup of espresso coffee
 - 1 tsp cacao powder
 
 ---

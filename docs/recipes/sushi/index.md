@@ -35,13 +35,13 @@ tags:
     - Avocado
     - Walnuts
     - Sesame seeds
-    - Siracha
+    - Sriracha
 2. Option
     - Tofu
     - Mayo
     - Cucumber
     - Red Bell Pepper
-    - Siracha
+    - Sriracha
 ---
 
 ## Instructions

@@ -9,9 +9,9 @@ tags:
 
 ![image](image.jpg)
 
-| :material-clock-outline: Time | :fork_and_knife: Servings |
-|-------------------------------|---------------------------|
-| 85 min                        | 15 slices                 |
+| :material-clock-outline: Prep Time | :material-timer-outline: Bake time | :fork_and_knife: Servings |
+|------------------------------------|------------------------------------|---------------------------|
+| 10 min                             | 75 min                             | 20 slices                 |
 
 ---
 

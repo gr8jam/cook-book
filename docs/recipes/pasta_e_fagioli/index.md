@@ -1,5 +1,6 @@
 ---
 tags:
+  - italian
   - pasta
 ---
 
@@ -28,11 +29,11 @@ tags:
 ## Instruction
 
 1. Chop the onion and fry it in a pot together with rosemary.
-2. Add the beans and let it stimer for a couple of minutes.
+2. Add the beans and let it simmer for a couple of minutes.
 3. Add the vegetable broth and tomato paste.
 4. Use the hand mixer to blend half of the sauce in the pot.
 5. Add salt and pepper to taste.
-6. Add the pasta in the pot, add the lid and let it stimer.
+6. Add the pasta in the pot, add the lid and let it simmer.
 7. Stir occasionally and add more water if needed.
 
 ---

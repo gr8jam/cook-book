@@ -20,7 +20,7 @@ tags:
 - 6 wraps
 - salad
 - tomatoes
-- cabaage
+- cabbage
 - cucumber
 
 ### Marinade
@@ -53,11 +53,11 @@ tags:
 
 1. Grate the tofu and fry it in the pan.
 2. Cut the vegetables into small pieces.
-2. Mix all the ingredients for the marinade and add the tofu.
-3. Mix all the ingredients for the yogurt sauce.
-4. Prepare the wraps with the salad, tomatoes, cabbage, cucumber, tofu and yogurt sauce.
-5. Toast the wraps on a grill.
-6. Serve and enjoy!
+3. Mix all the ingredients for the marinade and add the tofu.
+4. Mix all the ingredients for the yogurt sauce.
+5. Prepare the wraps with the salad, tomatoes, cabbage, cucumber, tofu and yogurt sauce.
+6. Toast the wraps on a grill.
+7. Serve and enjoy!
 
 ---
 

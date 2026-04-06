@@ -3,7 +3,7 @@ tags:
   - dessert
 ---
 
-# Chocolate Mouse
+# Chocolate Mousse
 
 ![image](image.jpg)
 

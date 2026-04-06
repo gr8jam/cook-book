@@ -1,5 +1,6 @@
 ---
 tags:
+  - italian
   - pasta
 ---
 
@@ -20,7 +21,7 @@ tags:
 - 1 clove of garlic
 - 1 tbsp tahini or 2 tbsp hummus
 - 2 tsp smoked paprika
-- 1 tsp origano
+- 1 tsp oregano
 - 2 tsp soy sauce
 - 1 tsp agave syrup (or similar)
 - veggie broth
@@ -35,7 +36,7 @@ tags:
 2. Add veggie broth. Bring to a boil, then reduce to a low simmer and cook for 10 minutes on low heat, covering with a lid.
 3. Add tomato paste and all seasonings listed in the ingredients.
 4. Cook everything until the lentils are soft (about 10 more minutes).
-5. Once the lentils are coked add the tahini or hummus and mix well. If you like, you can also add some spinach or greens at this point.
+5. Once the lentils are cooked add the tahini or hummus and mix well. If you like, you can also add some spinach or greens at this point.
 6. Once pasta is cooked, reserve 1/2 cup of pasta water and drain the pasta.
 7. Add pasta and pasta water to the pan with the lentils.
 8. Stir and serve!
