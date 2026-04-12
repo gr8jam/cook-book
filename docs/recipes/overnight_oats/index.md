@@ -26,8 +26,8 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 ####  Base
 
 - _1150mL_ water
-- _200g_ oats
 - 5 scoops of vanilla protein powder
+- _200g_ oats
 - _50g_ peanut butter
 - _2_ drops of vanilla extract
 
@@ -53,8 +53,8 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 #### Base
 
 - _1200mL_ of water
-- _120g_ of oats
 - _5_ scoops of coconut protein powder
+- _120g_ of oats
 - _50g_ of coconut flakes
 - _30g_ of almond flour
 - _50g_ almond butter
@@ -85,8 +85,8 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 #### Base
 
 - _1200mL_ of water
-- _200g_ of oats
 - _5_ scoops of vanilla protein powder
+- _200g_ of oats
 - _50g_ peanut butter
 - _2_ cups of espresso coffee
 - cookies of your choice
@@ -106,6 +106,62 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 5. Before serving, add two spoons of vanilla yogurt on top and sprinkle it with cacao powder.
 
 
-[comment]: <> (Add "Apfelstrudel" version - grated apple, cinnamon, walnuts)
+## Apfelstrudel
+
+[comment]: <> (Add picture)
+
+### Ingredients
+
+#### Base
+
+- _900mL_ of water
+- _5_ scoops of vanilla protein powder
+- _130g_ of oats
+- _50g_ almond butter
+- _2_ grated apples
+- _1 tsp_ cinnamon
+- _1/2 tsp_ nutmeg
+
+#### Topping
+
+- diced fresh apple
+- raisins
+- crushed walnuts
+- cinnamon
+
+### Instructions
+
+1. Combine all the base ingredients in a blender and blend until smooth.
+2. Pour the mixture into glass containers and refrigerate for at least 2 hours.
+3. Before serving, top with diced fresh apple, raisins, crushed walnuts, and a sprinkle of cinnamon.
+
+## Ferrero Rocher
+
+[comment]: <> (Add picture)
+
+### Ingredients
+
+#### Base
+
+- _1200mL_ of water
+- _5_ scoops of chocolate protein powder
+- _150g_ of oats
+- _50g_ hazelnut flour
+- _2 tbsp_ cocoa powder
+- _50g_ peanut butter
+
+#### Topping
+
+- _100g_ dark chocolate
+- _50mL_ plant-based milk
+- chopped roasted hazelnuts
+
+### Instructions
+
+1. Combine all the base ingredients in a blender and blend until smooth.
+2. Pour the mixture into glass containers and refrigerate for at least 2 hours.
+3. To make the ganache, heat the plant-based milk until it simmers, then pour it over the chopped dark chocolate. Stir until smooth and let it cool slightly.
+4. Before serving, pour the ganache on top and sprinkle with chopped roasted hazelnuts.
+
+
 [comment]: <> (Add "Lemon Tart" version)
-[comment]: <> (Add "Ferrero Rocher" version)
