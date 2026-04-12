@@ -28,6 +28,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 - _1150mL_ water
 - 5 scoops of vanilla protein powder
 - _200g_ oats
+- _4 tbsp_ ground chia/flax seeds
 - _50g_ peanut butter
 - _2_ drops of vanilla extract
 
@@ -55,6 +56,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 - _1200mL_ of water
 - _5_ scoops of coconut protein powder
 - _120g_ of oats
+- _4 tbsp_ ground chia/flax seeds
 - _50g_ of coconut flakes
 - _30g_ of almond flour
 - _50g_ almond butter
@@ -87,6 +89,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 - _1200mL_ of water
 - _5_ scoops of vanilla protein powder
 - _200g_ of oats
+- _4 tbsp_ ground chia/flax seeds
 - _50g_ peanut butter
 - _2_ cups of espresso coffee
 - cookies of your choice
@@ -117,6 +120,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 - _900mL_ of water
 - _5_ scoops of vanilla protein powder
 - _130g_ of oats
+- _4 tbsp_ ground chia/flax seeds
 - _50g_ almond butter
 - _2_ grated apples
 - _1 tsp_ cinnamon
@@ -146,6 +150,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 - _1200mL_ of water
 - _5_ scoops of chocolate protein powder
 - _150g_ of oats
+- _4 tbsp_ ground chia/flax seeds
 - _50g_ hazelnut flour
 - _2 tbsp_ cocoa powder
 - _50g_ peanut butter
