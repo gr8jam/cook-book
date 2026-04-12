@@ -26,9 +26,9 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 ####  Base
 
 - _1150mL_ water
-- 5 scoops of vanilla protein powder
-- _200g_ oats
+- _6_ spoons of vanilla protein powder
 - _4 tbsp_ ground chia/flax seeds
+- _200g_ oats
 - _50g_ peanut butter
 - _2_ drops of vanilla extract
 
@@ -47,16 +47,16 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Raffaello
 
-[comment]: <> (Add picture)
+[TODO]: <> (Add picture)
 
 ### Ingredients
 
 #### Base
 
 - _1200mL_ of water
-- _5_ scoops of coconut protein powder
-- _120g_ of oats
+- _6_ spoons of coconut protein powder
 - _4 tbsp_ ground chia/flax seeds
+- _120g_ of oats
 - _50g_ of coconut flakes
 - _30g_ of almond flour
 - _50g_ almond butter
@@ -80,16 +80,16 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Tiramisu
 
-[comment]: <> (Add picture)
+[TODO]: <> (Add picture)
 
 ### Ingredients
 
 #### Base
 
 - _1200mL_ of water
-- _5_ scoops of vanilla protein powder
-- _200g_ of oats
+- _6_ spoons of vanilla protein powder
 - _4 tbsp_ ground chia/flax seeds
+- _200g_ of oats
 - _50g_ peanut butter
 - _2_ cups of espresso coffee
 - cookies of your choice
@@ -111,20 +111,21 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Apfelstrudel
 
-[comment]: <> (Add picture)
+[TODO]: <> (Add picture)
 
 ### Ingredients
 
 #### Base
 
-- _900mL_ of water
-- _5_ scoops of vanilla protein powder
-- _130g_ of oats
+- _950mL_ of water
+- _6_ spoons of vanilla protein powder
 - _4 tbsp_ ground chia/flax seeds
+- _180g_ of oats
 - _50g_ almond butter
-- _2_ grated apples
-- _1 tsp_ cinnamon
-- _1/2 tsp_ nutmeg
+- _1_ apple
+- _7 tsp_ cinnamon
+- _50g_ of walnuts
+- _4 tsp_ of cane sugar
 
 #### Topping
 
@@ -141,16 +142,16 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Ferrero Rocher
 
-[comment]: <> (Add picture)
+[TODO]: <> (Add picture)
 
 ### Ingredients
 
 #### Base
 
 - _1200mL_ of water
-- _5_ scoops of chocolate protein powder
-- _150g_ of oats
+- _6_ spoons of chocolate protein powder
 - _4 tbsp_ ground chia/flax seeds
+- _150g_ of oats
 - _50g_ hazelnut flour
 - _2 tbsp_ cocoa powder
 - _50g_ peanut butter
@@ -169,4 +170,4 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 4. Before serving, pour the ganache on top and sprinkle with chopped roasted hazelnuts.
 
 
-[comment]: <> (Add "Lemon Tart" version)
+[TODO]: <> (Add "Lemon Tart" version)
