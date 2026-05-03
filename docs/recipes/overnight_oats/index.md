@@ -5,7 +5,7 @@ tags:
 
 # Overnight Oats
 
-![image](image.jpg)
+![collage](collage.jpeg)
 
 | :material-clock-outline: Time | :fork_and_knife: Servings |
 |-------------------------------|---------------------------|
@@ -19,7 +19,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Cheesecake
 
-![image](image.jpg)
+![cheesecake](cheesecake.jpg)
 
 ### Ingredients
 
@@ -27,7 +27,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 - _1150mL_ water
 - _6_ spoons of vanilla protein powder
-- _4 tbsp_ ground chia/flax seeds
+- _5 tbsp_ ground chia/flax seeds
 - _200g_ oats
 - _50g_ peanut butter
 - _2_ drops of vanilla extract
@@ -47,7 +47,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Raffaello
 
-[TODO]: <> (Add picture)
+![raffaello](raffaello.jpg)
 
 ### Ingredients
 
@@ -55,13 +55,13 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 - _1200mL_ of water
 - _6_ spoons of coconut protein powder
-- _4 tbsp_ ground chia/flax seeds
-- _120g_ of oats
+- _5 tbsp_ ground chia/flax seeds
+- _100g_ of oats
 - _50g_ of coconut flakes
-- _30g_ of almond flour
+- _50g_ of almond flour
 - _50g_ almond butter
-- almond extract (one or two drops)
-- coconut milk (optional)
+- 2~3 drops of almond extract (don't exagarate!)
+
 
 #### Topping
 
@@ -80,7 +80,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Tiramisu
 
-[TODO]: <> (Add picture)
+![tiramisu](tiramisu.jpg)
 
 ### Ingredients
 
@@ -88,7 +88,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 - _1200mL_ of water
 - _6_ spoons of vanilla protein powder
-- _4 tbsp_ ground chia/flax seeds
+- _5 tbsp_ ground chia/flax seeds
 - _200g_ of oats
 - _50g_ peanut butter
 - _2_ cups of espresso coffee
@@ -111,7 +111,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Apfelstrudel
 
-[TODO]: <> (Add picture)
+![apfelstrudel](apfelstrudel.jpg)
 
 ### Ingredients
 
@@ -119,7 +119,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 - _950mL_ of water
 - _6_ spoons of vanilla protein powder
-- _4 tbsp_ ground chia/flax seeds
+- _5 tbsp_ ground chia/flax seeds
 - _180g_ of oats
 - _50g_ almond butter
 - _1_ apple
@@ -142,7 +142,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 ## Ferrero Rocher
 
-[TODO]: <> (Add picture)
+![ferrero](ferrero.jpg)
 
 ### Ingredients
 
@@ -150,7 +150,7 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 - _1200mL_ of water
 - _6_ spoons of chocolate protein powder
-- _4 tbsp_ ground chia/flax seeds
+- _5 tbsp_ ground chia/flax seeds
 - _150g_ of oats
 - _50g_ hazelnut flour
 - _2 tbsp_ cocoa powder
@@ -158,16 +158,16 @@ A collection of protein-packed overnight oats variations. Simply blend the ingre
 
 #### Topping
 
-- _100g_ dark chocolate
-- _50mL_ plant-based milk
+- _80g_ dark chocolate (chopped)
+- _100mL_ plant-based milk
 - chopped roasted hazelnuts
 
 ### Instructions
 
 1. Combine all the base ingredients in a blender and blend until smooth.
 2. Pour the mixture into glass containers and refrigerate for at least 2 hours.
-3. To make the ganache, heat the plant-based milk until it simmers, then pour it over the chopped dark chocolate. Stir until smooth and let it cool slightly.
-4. Before serving, pour the ganache on top and sprinkle with chopped roasted hazelnuts.
+3. Make the ganache by placing the chopped chocolate and milk into a bowl and put it into the microwave for 2 min with 200 W. Stir it every 30 seconds.
+4. Pour the ganache on top and sprinkle with chopped roasted hazelnuts.
 
 
 [TODO]: <> (Add "Lemon Tart" version)
