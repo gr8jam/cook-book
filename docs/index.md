@@ -7,6 +7,7 @@
 [![Orange Cake](recipes/orange_cake/thumbnail.jpg "Orange Cake")](recipes/orange_cake/index.md)
 [![Apple Cake](recipes/apple_cake/thumbnail.jpg "Apple Cake")](recipes/apple_cake/index.md)
 [![Sacher Torte](recipes/sacher_cake/thumbnail.jpg "Sacher Torte")](recipes/sacher_cake/index.md)
+[![Carrot Cake](recipes/carrot_cake/thumbnail.jpg "Carrot Cake")](recipes/carrot_cake/index.md)
 [![Chocolate Mousse](recipes/chocolate_mousse/thumbnail.jpg "Chocolate Mousse")](recipes/chocolate_mousse/index.md)
 [![Chocolate Zucchini Bread](recipes/chocolate_zucchini_bread/thumbnail.jpg "Chocolate Zucchini Bread")](recipes/chocolate_zucchini_bread/index.md)
 [![Tiramisu](recipes/tiramisu/thumbnail.jpg "Tiramisu")](recipes/tiramisu/index.md)
